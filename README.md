@@ -1,1 +1,1 @@
-# Multiple-disease-prediction-using-ML
+Multiple Disease Prediction
